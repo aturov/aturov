@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
 <!--
 **aturov/aturov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
